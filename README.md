@@ -4,4 +4,6 @@
 
 - Designed to be use as a template to suit your needs.
 
+Example on https://steelhawks.net
+
 **This display requires the Instagram Display API.** https://developers.facebook.com/docs/instagram-basic-display-api/
